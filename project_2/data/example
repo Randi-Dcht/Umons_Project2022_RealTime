@@ -1,0 +1,7 @@
+.maker [number of articles]
+.customer [number random]
+.hour [hour_of_start]
+.volume [sum of ( quantity * volume_product) ]
+.quantity [id article] [quantity maximum]
+.Article [id article] [volume_product] [time_to_product] [name (!space is "_"!)]
+.client [min_time] [max_time]

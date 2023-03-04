@@ -1,0 +1,19 @@
+.maker 6
+.customer 3
+.volume 88
+.hour 11
+.quantity 0 10
+.quantity 1 4
+.quantity 2 5
+.quantity 3 7
+.quantity 4 1
+.quantity 5 8
+.article 0 1 30000 Souris_Pc
+.article 1 5 15000 Moniteur_29_pouces_Full_HD
+.article 2 2 21000 Clavier_LogiTech_AZERTY
+.article 3 2 14000 Power_USB-C_45W
+.article 4 10 100000 Tesla_Model_X
+.article 5 3 1800 Gsm_Android_Version_11
+.client 15000 15500
+.client 5000 25000
+.client 18000 30000

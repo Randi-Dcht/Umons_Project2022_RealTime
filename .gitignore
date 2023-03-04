@@ -1,0 +1,7 @@
+.idea
+binary
+testing
+*.bin
+mFacto*
+mCusto*
+startMe
